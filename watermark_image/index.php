@@ -1,0 +1,1 @@
+<img src="gen.php?source=source.jpg" />
